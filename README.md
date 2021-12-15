@@ -11,9 +11,9 @@ HW2 Bioinformatics course
 Небольшая статистика:   
 Всего белков было предсказано:  
 ![](https://github.com/kseniashilova/hse21_hw2/blob/main/images/all_amount.PNG)  
-Cколько из них удалось аннотировать с помощью сравнения с бактерией MIL-1  
+Cколько из них удалось аннотировать с помощью сравнения с бактерией MIL-1  (остались не аннотированы 3609 - 3331 = 278)
 ![](https://github.com/kseniashilova/hse21_hw2/blob/main/images/mil_1_amount.PNG)  
-Cколько с помощью БД SwissProt  
+Cколько с помощью БД SwissProt  (остались не аннотированы 3609 - 52 = 3557)
 ![](https://github.com/kseniashilova/hse21_hw2/blob/main/images/swissProt_amount.PNG)  
 
 
